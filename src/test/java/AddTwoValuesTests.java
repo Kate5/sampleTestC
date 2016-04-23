@@ -11,7 +11,7 @@ import static junit.framework.TestCase.assertEquals;
 
 public class AddTwoValuesTests {
 
-    Calculate calc = new Calculate();
+    Calculator calc = new Calculator();
 
     @Before
     public void consolePrint() {

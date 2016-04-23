@@ -2,7 +2,7 @@
  * Created by kate on 1/12/16.
  */
 
-public class Calculate {
+public class Calculator {
 
     public static void main(String[] args) {
     }
